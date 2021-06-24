@@ -1,5 +1,6 @@
 #  Basecamp (Piscina) 42 São Paulo / Maio 2021
-Arquivos do Basecamp de Maio 2021. ( Não copie, aprenda. Eu avisei... )
+Arquivos do Basecamp de Maio 2021.
+
 ## Score
 |List|Level|Score|
 |---|---|---|
@@ -22,4 +23,11 @@ Arquivos do Basecamp de Maio 2021. ( Não copie, aprenda. Eu avisei... )
 |Final Exam|7.16|34%|
 
 ## Medals
+Medalhas obtidas
+
 ![medals](medals_wating.png?raw=true "Medals")
+
+## Marvin
+Pontuação parcial de horas, projetos e eventos
+
+![medals](pontos_marvin.png?raw=true "Medals")
